@@ -5,6 +5,11 @@
   - [Variable declaration and arithmatic operation](#variable-declaration-and-arithmatic-operation)
     - [Example](#example)
     - [Output](#output)
+  - [List](#list)
+    - [creating list](#creating-list)
+    - [accessing list](#accessing-list)
+    - [Example](#example-1)
+    - [Output](#output-1)
 
 
 ---
@@ -49,3 +54,14 @@ print("5. " + str(int(value,base = 0)/2))
 4. value = 12
 5. 6.0
 </pre>
+
+## List
+- set of ordered items
+- have an index
+- know the order
+### creating list
+### accessing list
+### Example
+<pre>
+</pre>
+### Output
